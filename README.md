@@ -1,4 +1,5 @@
-+[Heading](#section-heading)
++[Heading](#publishing-add-ons-for-domain-wide-installation)
+
 +[Heading2](#section-i-want)
 +[Heading3](#section-i-want)
 2
