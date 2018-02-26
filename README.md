@@ -1,4 +1,6 @@
-#[Heading Link](#section-i-want)
++[Heading](#section-heading)
++[Heading2](#section-i-want)
++[Heading3](#section-i-want)
 2
 3
 4
@@ -16,6 +18,6 @@
 6
 
 
-## [Section I Want]
+## [Section heading]
 ## Publishing Add-ons for Domain-Wide Installation
 [https://developers.google.com/apps-script/add-ons/domain-wide][publish]
