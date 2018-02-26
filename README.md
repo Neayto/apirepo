@@ -18,6 +18,6 @@
 6
 
 
-## [Section heading]
+## Section heading
 ## Publishing Add-ons for Domain-Wide Installation
 [https://developers.google.com/apps-script/add-ons/domain-wide][publish]
